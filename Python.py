@@ -7,3 +7,8 @@ num2 = float(input("Digite o segundo número: "))
 resultado = num1 + num2
 
 print("A soma é:", resultado)
+
+resultado = num1 - num2
+
+
+print("O resultado da subtração é:", resultado)
